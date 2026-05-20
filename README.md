@@ -161,9 +161,9 @@ I write technical blogs about **AI engineering, distributed algorithms, communic
 
 <div align="center">
 
-![Jingze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liujingze11&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liujingze11&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liujingze11&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liujingze11&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
