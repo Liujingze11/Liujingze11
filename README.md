@@ -155,17 +155,9 @@ matches = pipeline.rank(query, candidates)       # Score & sort results
 
 ### 🧬 YOLO-LAB — YOLO Training & Inference Toolkit
 
-> *Dual-interface (GUI + CLI) YOLO toolkit with cross-platform packaging*
+> *Dual-interface (GUI + CLI) with cross-platform packaging*
 
-A complete YOLO model workflow tool with PySide6 GUI and CLI, featuring auto GPU detection, cross-platform releases, and CI/CD automation.
-
-- 🖥️ **GUI** (PySide6) + **CLI** dual interfaces with full feature parity
-- 🚀 Auto GPU detection: CUDA download on demand (~2.5GB), MPS for Apple Silicon
-- 📦 Cross-platform: Windows `.exe`, Linux `.AppImage`, macOS `.dmg`
-- 🔄 GitHub Actions CI/CD with automated release on version tags
-- 🏋️ Training, inference, dataset management, model selection
-
-🔗 [YOLO-LAB](https://github.com/Liujingze11/YOLO-LAB)
+A complete YOLO model workflow tool with PySide6 GUI and CLI interfaces, featuring automatic GPU detection, cross-platform releases (Windows/Linux/macOS), and CI/CD automation via GitHub Actions.
 
 ---
 

@@ -155,16 +155,9 @@ matches = pipeline.rank(query, candidates)       # 打分排序
 
 ### 🧬 YOLO-LAB — YOLO 训练与推理工具集
 
-> *图形界面 + 命令行双界面，跨平台打包，自动 GPU 检测*
+> *图形界面 + 命令行双界面，跨平台打包*
 
-完整的 YOLO 模型工作流工具，提供 PySide6 GUI 和 CLI 两种使用方式，支持自动 GPU 检测、跨平台发布和 CI/CD 自动化。
-
-- 🖥️ **GUI**（PySide6）+ **CLI** 双界面，功能完全对等
-- 🚀 自动 GPU 检测：按需下载 CUDA（~2.5GB），Apple Silicon MPS 支持
-- 📦 跨平台：Windows `.exe`、Linux `.AppImage`、macOS `.dmg`
-- 🔄 GitHub Actions CI/CD，推送 tag 自动构建发布
-
-🔗 [YOLO-LAB](https://github.com/Liujingze11/YOLO-LAB)
+完整的 YOLO 模型工作流工具，提供 PySide6 GUI 和 CLI 双界面，支持自动 GPU 检测、跨平台发布（Windows/Linux/macOS）和 GitHub Actions CI/CD 自动化。
 
 ---
 
