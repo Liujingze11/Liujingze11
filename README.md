@@ -134,6 +134,9 @@ A system that converts industrial robot instruction logic tables into executable
 
 ---
 
+
+---
+
 ### 👁️ Lookalike Cam Engine — Multi-Feature Person Re-Identification
 
 > *Plugin-based pipeline: Detection → Embedding → Retrieval → Ranking*
@@ -145,9 +148,6 @@ A modular, config-driven similarity matching system for cross-camera person re-i
 - ⚡ **FAISS vector search** for high-performance retrieval
 - 🧩 Composable pipeline: mix and match detectors/embedders/retrievers/rankers
 - Built with `PyTorch`, `OpenCLIP`, `FAISS`, `FastAPI`
-
-
----
 
 ### 🧬 YOLO-LAB — YOLO Training & Inference Toolkit
 
