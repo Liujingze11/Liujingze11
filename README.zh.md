@@ -116,24 +116,7 @@
 
 > *"机器人即人" — 感知→大脑→运动 闭环架构*
 
-一套模拟人类认知的具身 AI Agent 系统。多模态感知（听觉/视觉/触觉，通过 FIFO 管道）→ 大脑决策（LLM 规划器 + 确定性安检器）→ 运动执行 → 闭环反馈。
-
-- **三层架构**：感知层 → 大脑层（记忆 + 规则 + 规划 + 安全门控）→ 运动层
-- **11 条永久安全规则** + 6 种运动原语，全部确定性执行
-- **LLM Agent 基类**：封装 Anthropic SDK，Pydantic 结构化输出，支持多厂商
-- **多线程设计**：3 条感知输入线程 + 事件循环 + 大脑闭环
-- 技术栈：`Anthropic Python SDK`、`Pydantic`、`httpx`
-
-```python
-# 核心闭环：规划 → 安检 → 执行 → 反馈 → 重规划
-task_input = TaskInput(raw_text="把会议室的签字文件送给前台王经理")
-parsed = parser.parse(task_input)  # 👂 听觉：自然语言 → 结构化任务
-skill = planner.plan(state, percept)  # 🧠 大脑：提出候选技能
-result = gatekeeper.check(skill, state)  # 🛂 安检：三重安全审查
-feedback = motor.execute(skill)  # 🦾 运动：执行并生成反馈
-```
-
-🔗 [nervacore](https://github.com/Liujingze11/nervacore) · 第一阶段已完成 ✅
+面向人形服务机器人的具身 AI Agent 系统，模拟人类神经架构：多模态感知 → 大脑决策（LLM 规划器 + 确定性安全门控）→ 运动执行 → 闭环反馈。采用三层架构设计，内置 11 条永久安全规则和 6 种运动原语，全部确定性执行。
 
 ---
 

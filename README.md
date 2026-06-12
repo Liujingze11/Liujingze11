@@ -116,24 +116,7 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 > *"Robot as Human" — Sensory → Brain → Motor closed-loop architecture*
 
-An embodied AI agent system modeling humanoid service robots after human cognition. Multi-modal perception (auditory/visual/tactile via FIFO pipes) → Brain decision (LLM Planner + deterministic Gatekeeper) → Motor execution → closed-loop feedback.
-
-- **Three-layer architecture**: Sensory perception → Brain (memory + rules + planning + safety gate) → Motor execution
-- **11 permanent safety rules** + 6 motor primitives, all deterministically enforced
-- **LLM Agent base class** with Anthropic SDK, Pydantic structured output, multi-provider support
-- **Multi-threaded**: 3 sensory input threads + event loop + brain loop
-- Built with `Anthropic Python SDK`, `Pydantic`, `httpx`
-
-```python
-# The core loop: Plan → Check → Execute → Feedback → Re-plan
-task_input = TaskInput(raw_text="把会议室的签字文件送给前台王经理")
-parsed = parser.parse(task_input)  # 👂 Auditory: NL → ParsedTask
-skill = planner.plan(state, percept)  # 🧠 Brain: propose next skill
-result = gatekeeper.check(skill, state)  # 🛂 Gate: triple safety check
-feedback = motor.execute(skill)  # 🦾 Motor: execute & produce feedback
-```
-
-🔗 [nervacore](https://github.com/Liujingze11/nervacore) · Phase 1 complete ✅
+An embodied AI agent system for humanoid service robots, modeling robot cognition after human neural architecture: multi-modal perception → brain decision (LLM Planner + deterministic safety Gatekeeper) → motor execution → closed-loop feedback. Built with a three-layer architecture featuring 11 permanent safety rules and 6 motor primitives, all deterministically enforced.
 
 ---
 
