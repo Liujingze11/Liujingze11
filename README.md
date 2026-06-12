@@ -1,10 +1,12 @@
+[English](README.md) | [中文](README.zh.md)
+
 <div align="center">
 
 # Hi, I'm Jingze Liu 👋
 
 ### AI Engineer @ SIASUN Robotics / 新松机器人 🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+SIASUN+Robotics;Robotics+%7C+AI+Agent+%7C+Distributed+Systems;Computer+Vision+%7C+Industrial+AI+%7C+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+SIASUN+Robotics;Embodied+AI+%7C+AI+Agent+%7C+Computer+Vision;Robotics+%7C+Distributed+Systems+%7C+Full-Stack;Industrial+AI+%7C+Smart+Manufacturing+%7C+Digital+Twin" />
 
 </div>
 
@@ -12,14 +14,16 @@
 
 ## 🚀 About Me
 
-I am an AI Engineer with a background in **computer science, automation, embedded systems, and industrial AI applications**.
+I am an AI Engineer passionate about bridging **Artificial Intelligence** and **Robotics**. My work spans the full AI engineering stack — from embodied agent brains and multi-LLM orchestration to computer vision systems and full-stack AI applications.
 
 - 🤖 AI Engineer at **SIASUN Robotics / 新松机器人**
 - 🎓 M.Sc. in Computer Science, **IMT Atlantique, France**
-- 🧠 Focused on **AI Agent**, **Robotics**, **Distributed Systems**, and **Industrial Software**
-- 🏭 Experienced in **smart manufacturing**, **MES/WMS systems**, **AGV / robotic arm / conveyor integration**
-- ✍️ CSDN Certified Creator in Artificial Intelligence, with **270K+ blog views**
-- 🌍 International experience in China, France, and Switzerland
+- 🧠 Building **Embodied AI Agents**, **LLM orchestration pipelines**, and **robot instruction systems**
+- 👁️ Experienced in **Computer Vision** (YOLO, CLIP, FAISS, re-identification)
+- 🌐 Full-stack development: **FastAPI + React + TypeScript** for AI applications
+- 🏭 Background in **smart manufacturing**: MES/WMS, AGV, robotic arm, conveyor integration
+- ✍️ CSDN Certified AI Creator — **270K+ blog views**
+- 🌍 International experience across China, France, and Switzerland
 
 ---
 
@@ -27,126 +31,306 @@ I am an AI Engineer with a background in **computer science, automation, embedde
 
 <div align="center">
 
+### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-283272?style=for-the-badge&logo=riscv&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Backend & Distributed
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend & Desktop
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### DevOps & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Automotive-blue?style=for-the-badge)
-![RISC--V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 Research & Engineering Interests
+## 🧠 Research & Engineering Focus
 
-- AI Agent Engineering
-- Robotics Intelligence
-- Computer Vision
-- Distributed Systems
-- Industrial AI Applications
-- Embedded Systems
-- Smart Manufacturing
-- Digital Twin
-- Model Compression, Quantization, Pruning and Distillation
+<table>
+<tr>
+<td width="50%">
 
----
+**Core Interests**
+- 🧠 Embodied AI Agents & LLM Orchestration
+- 🤖 Robotics Intelligence & Motion Planning
+- 👁️ Computer Vision & Multi-Modal Perception
+- 🔄 Distributed Systems & Message Queues
+- 🏭 Smart Manufacturing & Industry 4.0
+- 🏗️ Digital Twin & Factory Simulation
 
-## 💼 Experience Highlights
+</td>
+<td width="50%">
 
-### 🤖 AI Engineer — SIASUN Robotics / 新松机器人
+**Engineering Expertise**
+- 🔧 Full-Stack AI Application Development
+- 📦 Cross-Platform Packaging (Debian, Docker, AppImage)
+- 🧪 LLM Pipeline Testing & Validation
+- ⚡ Model Compression, Quantization & Pruning
+- 🔌 Embedded Systems & AUTOSAR
+- 🎯 CI/CD & Automated Release Pipelines
 
-Working on AI-related engineering applications in robotics and intelligent industrial systems.
-
-### 🚚 Digital Project Manager Intern — FAW Logistics
-
-- Developed an **AI Agent-based intelligent packaging recommendation system**
-- Designed compatibility evaluation algorithms for multi-size parts packaging
-- Improved automated decision-making efficiency by approximately **15%**
-- Developed a material tracking module for MES system visualization
-- Participated in WMS deployment and intelligent equipment integration
-
-### ⚡ Software Engineer Intern — LEM, Switzerland / France
-
-- Designed and developed upper-computer software architecture for embedded products
-- Built a logic analyzer module for **QSPI signal monitoring, timing decoding, and command frame parsing**
-- Developed GUI tools with Python and Qt
-- Improved bug exposure rate by approximately **2x**
-
-### 🚗 BMS Software Engineer Intern — Neusoft Reach Automotive
-
-- Participated in BMS software development for the CEER automotive project
-- Developed core modules including balancing control, high-voltage monitoring, power management, and fault handling
-- Worked with **AUTOSAR**, **Simulink**, and **Stateflow**
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 AI Agent — Intelligent Oral Exam System
+### 🧠 NervaCore — Embodied Agent Brain for Humanoid Robots
 
-An AI Agent-based language examination system for French oral practice.
+> *"Robot as Human" — Sensory → Brain → Motor closed-loop architecture*
 
-- Speech recognition
-- Semantic understanding
-- Dialogue control
-- Automatic scoring and instant feedback
-- Multi-platform development with uni-app
-- Integrated with self-developed AI Agent and DeepSeek API
+An embodied AI agent system modeling humanoid service robots after human cognition. Multi-modal perception (auditory/visual/tactile via FIFO pipes) → Brain decision (LLM Planner + deterministic Gatekeeper) → Motor execution → closed-loop feedback.
 
-### 🕸️ Distributed Super Crawler Based on RabbitMQ
+- **Three-layer architecture**: Sensory perception → Brain (memory + rules + planning + safety gate) → Motor execution
+- **11 permanent safety rules** + 6 motor primitives, all deterministically enforced
+- **LLM Agent base class** with Anthropic SDK, Pydantic structured output, multi-provider support
+- **Multi-threaded**: 3 sensory input threads + event loop + brain loop
+- Built with `Anthropic Python SDK`, `Pydantic`, `httpx`
 
-A distributed crawler system designed for efficient Reddit data collection.
+```python
+# The core loop: Plan → Check → Execute → Feedback → Re-plan
+task_input = TaskInput(raw_text="把会议室的签字文件送给前台王经理")
+parsed = parser.parse(task_input)  # 👂 Auditory: NL → ParsedTask
+skill = planner.plan(state, percept)  # 🧠 Brain: propose next skill
+result = gatekeeper.check(skill, state)  # 🛂 Gate: triple safety check
+feedback = motor.execute(skill)  # 🦾 Motor: execute & produce feedback
+```
 
-- Python multi-threading
-- RabbitMQ asynchronous scheduling
-- Flask backend integration
-- Parallel data processing
-- Improved concurrent processing capability by nearly **4x**
-
-### 🏭 Digital Factory Simulator
-
-A front-end interface for digital twin-based factory simulation.
-
-- Developed with HTML, CSS, and JavaScript
-- Integrated Flask and Paho-MQTT
-- Supported agent selection, scene management, and message control
-
-### 🧬 Chronic Disease Prediction Model
-
-A machine learning project for chronic disease prediction.
-
-- Data preprocessing and feature engineering
-- Decision Tree, Random Forest, SVM and ensemble learning
-- Optimized with K-fold cross-validation and grid search
-- Achieved **75.93% prediction accuracy**
-
-### ⚙️ RISC-V AI Acceleration Project
-
-Modified RISC-V CVA6 architecture to accelerate MNIST AI application.
-
-- RISC-V architecture
-- FPGA design
-- SystemVerilog
-- Custom instruction optimization
-- Reduced execution clock cycles
+🔗 [nervacore](https://github.com/Liujingze11/nervacore) · Phase 1 complete ✅
 
 ---
 
-## ✍️ Blog & Writing
+### 🤖 IMRGo — LLM-Powered Robot Instruction Generation System
 
-I write technical blogs about **AI engineering, distributed algorithms, communication mechanisms, Industry 4.0, and software system design**.
+> *Excel logic tables → LLM pipeline → Robot workflow (JSON + Document + Graph)*
+
+A comprehensive system that converts industrial robot instruction logic tables into executable workflows using multi-LLM orchestration. Three product forms: **CLI** (LangGraph interactive), **GUI** (FastAPI + React desktop app), **Web** (deployable service).
+
+**Pipeline Architecture:**
+```
+Excel Logic Table → Intent Recognition → Dynamic Planner → Instruction Reasoning
+                   → Checker (Qwen/MiMo validation) → JSON Converter → TXT Renderer
+```
+
+**Engine Versions** (6 variants):
+| Version | Generator | Checker | Feature |
+|---------|-----------|---------|---------|
+| v1 | DeepSeek | — | Single-pass generation |
+| v2 | DeepSeek | Qwen | Dual-model validation |
+| v2.2DD | DeepSeek | — | Optimized direct generation |
+| v2.2DQ | DeepSeek | Qwen | Dual-model with optimized prompts |
+| v2.2DM | DeepSeek | MiMo | Xiaomi MiMo as checker |
+| v2.3DQ | DeepSeek | Qwen | Configurable timeout & retry |
+
+**Technical Highlights:**
+- 🧠 Multi-LLM orchestration: DeepSeek + Qwen + MiMo with cross-validation
+- ⚛️ Full-stack: `FastAPI` + `React` + `TypeScript` + `Vite` + `Tailwind CSS`
+- 📦 4 distribution formats: Local installer, `.deb` package, Docker, Portable
+- 🧪 Comprehensive test suite: Golden tests, LLM-as-judge validation
+- 🔄 LangGraph state machine with human-in-the-loop interrupt
+
+🔗 [IMRGo-CLI](https://github.com/Liujingze11/IMRGo-CLI) · [IMRGo-GUI](https://github.com/Liujingze11/IMRGo-GUI) · [IMRGo-Web](https://github.com/Liujingze11/IMRGo-Web)
+
+---
+
+### 👁️ Lookalike Cam Engine — Multi-Feature Person Re-Identification
+
+> *Plugin-based pipeline: Detection → Embedding → Retrieval → Ranking*
+
+A modular, config-driven similarity matching system for cross-camera person re-identification. Designed with abstract base classes for pluggable detectors, embedders, retrievers, and rankers.
+
+- 🎯 **Plugin architecture**: Abstract base classes → dependency injection via YAML config
+- 🔍 **Multi-feature**: Global (CLIP), Face, Outfit, Color embeddings
+- ⚡ **FAISS vector search** for high-performance retrieval
+- 🧩 Composable pipeline: mix and match detectors/embedders/retrievers/rankers
+- Built with `PyTorch`, `OpenCLIP`, `FAISS`, `FastAPI`
+
+```python
+# Pipeline: Detect → Embed → Retrieve → Rank
+pipeline = LookalikePipeline(config_path="configs/pipeline.yaml")
+regions = pipeline.detect(query_image)      # Face detection + full image
+vectors = [pipeline.embed(r) for r in regions]  # Multi-type embeddings
+candidates = pipeline.retrieve(vectors, index)   # FAISS similarity search
+matches = pipeline.rank(query, candidates)       # Score & sort results
+```
+
+🔗 [lookalike-cam-engine](https://github.com/Liujingze11/lookalike-cam-engine)
+
+---
+
+### 🧬 YOLO-LAB — YOLO Training & Inference Toolkit
+
+> *Dual-interface (GUI + CLI) YOLO toolkit with cross-platform packaging*
+
+A complete YOLO model workflow tool with PySide6 GUI and CLI, featuring auto GPU detection, cross-platform releases, and CI/CD automation.
+
+- 🖥️ **GUI** (PySide6) + **CLI** dual interfaces with full feature parity
+- 🚀 Auto GPU detection: CUDA download on demand (~2.5GB), MPS for Apple Silicon
+- 📦 Cross-platform: Windows `.exe`, Linux `.AppImage`, macOS `.dmg`
+- 🔄 GitHub Actions CI/CD with automated release on version tags
+- 🏋️ Training, inference, dataset management, model selection
+
+🔗 [YOLO-LAB](https://github.com/Liujingze11/YOLO-LAB)
+
+---
+
+### 🐳 Claude Code + DeepSeek Starter
+
+> *One-click cross-platform deployment of Claude Code with DeepSeek API*
+
+A starter kit that simplifies Claude Code installation and DeepSeek API integration for non-technical users across macOS, Windows, and Linux.
+
+- 🖥️ macOS: double-click `.command` auto-install with Miniforge
+- 🪟 Windows: PowerShell one-click with Git + Node.js auto-setup
+- 🐧 Linux: single-line bash install
+- 🔑 Environment variable auto-configuration for DeepSeek API
+
+🔗 [claude-code-deepseek-starter](https://github.com/Liujingze11/claude-code-deepseek-starter)
+
+---
+
+### 🌐 Distributed Super Crawler (RabbitMQ)
+
+A distributed web crawler leveraging RabbitMQ for asynchronous task scheduling. Achieved **~4x concurrency improvement** over single-threaded approaches.
+
+- Python multi-threading + RabbitMQ message queue
+- Flask backend for task management
+- Parallel data collection & processing pipeline
+
+---
+
+### 🏭 Digital Factory Simulator
+
+A browser-based digital twin interface for factory simulation with real-time MQTT messaging.
+
+- HTML5 + CSS3 + JavaScript frontend
+- Flask + Paho-MQTT backend
+- Agent selection, scene management, message control
+
+---
+
+### ⚙️ RISC-V AI Acceleration
+
+Modified the CVA6 RISC-V core with custom instructions to accelerate MNIST neural network inference on FPGA.
+
+- SystemVerilog RTL design
+- Custom instruction set extension
+- Measurable clock cycle reduction for AI workloads
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="80px"><b>🤖 Now</b></td>
+<td>
+
+**AI Engineer** — SIASUN Robotics / 新松机器人
+
+AI engineering applications in robotics and intelligent industrial systems.
+
+</td>
+</tr>
+<tr>
+<td><b>🚚 Intern</b></td>
+<td>
+
+**Digital Project Manager Intern** — FAW Logistics
+
+- Built AI Agent-based intelligent packaging recommendation system with compatibility evaluation
+- Developed material tracking module for MES visualization
+- Participated in WMS deployment & intelligent equipment integration
+- **Improved automated decision efficiency by ~15%**
+
+</td>
+</tr>
+<tr>
+<td><b>⚡ Intern</b></td>
+<td>
+
+**Software Engineer Intern** — LEM, Switzerland / France
+
+- Designed upper-computer software architecture for embedded products
+- Built QSPI logic analyzer: signal monitoring, timing decoding, command frame parsing
+- GUI development with Python + Qt
+- **Improved bug exposure rate by ~2x**
+
+</td>
+</tr>
+<tr>
+<td><b>🚗 Intern</b></td>
+<td>
+
+**BMS Software Engineer Intern** — Neusoft Reach Automotive
+
+- BMS software for CEER automotive project (AUTOSAR, Simulink, Stateflow)
+- Core modules: balancing control, high-voltage monitoring, power management, fault handling
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ Project Map
+
+```
+📁 Projects/
+├── 🧠 NervaCore/            Embodied AI agent brain (Sensory→Brain→Motor)
+├── 🤖 IMRGo (CLI/GUI/Web)   Robot instruction generation (multi-LLM pipeline)
+├── 👁️ Lookalike-Cam-Engine  Multi-feature person re-identification
+├── 🧬 YOLO-LAB              YOLO training/inference toolkit (GUI + CLI)
+├── 🐳 Claude-DeepSeek       Cross-platform Claude Code + DeepSeek starter
+├── 🕸️ Distributed-Crawler   RabbitMQ-based distributed web crawler
+├── 🏭 Digital-Factory       Digital twin factory simulator (MQTT + Flask)
+├── ⚙️ RISC-V-AI             CVA6 core modification for AI acceleration
+├── 📚 MyLearningNote/       Structured CS notes (PL, Algo, AI, CV, Agent)
+└── 🧪 Testing-Workspace/    Robot instruction testing (5 real-world scenarios)
+```
+
+---
+
+## ✍️ Writing & Community
+
+I write technical blogs on **AI engineering, distributed algorithms, robotics systems, and Industry 4.0**.
 
 <div align="center">
 
@@ -171,6 +355,6 @@ I write technical blogs about **AI engineering, distributed algorithms, communic
 
 <div align="center">
 
-### “Building intelligent systems that connect AI, robotics, and real-world industry.”
+### *"Building intelligent systems that connect AI, robotics, and real-world industry."*
 
 </div>
