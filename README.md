@@ -118,87 +118,51 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 ## 📌 Featured Projects
 
-### 🧠 NervaCore — Embodied Agent Brain for Humanoid Robots
+### 🤖 AI & Robotics
 
-> *"Robot as Human" — Sensory → Brain → Motor closed-loop architecture*
+| Project | Description |
+|---------|-------------|
+| 🧠 **NervaCore** | Embodied agent brain for humanoid robots — Sensory → Brain → Motor closed-loop architecture |
+| 🤖 **IMRGo** (CLI / GUI / Web) | Robot instruction generation from Excel logic tables via multi-LLM orchestration (DeepSeek + Qwen + MiMo) |
 
-An embodied AI agent system for humanoid service robots, modeling robot cognition after human neural architecture: multi-modal perception → brain decision (LLM Planner + deterministic safety Gatekeeper) → motor execution → closed-loop feedback. Built with a three-layer architecture featuring 11 permanent safety rules and 6 motor primitives, all deterministically enforced.
+### 👁️ Computer Vision
 
----
+| Project | Description |
+|---------|-------------|
+| 🧬 **YOLO-LAB** | YOLO training & inference toolkit — GUI (PySide6) + CLI, cross-platform packaging with auto GPU detection |
+| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | Multi-feature person re-identification — plugin pipeline (Detection → CLIP → FAISS → Ranking) |
+| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | Dog tracking with computer vision |
 
-### 🤖 IMRGo — LLM-Powered Robot Instruction Generation System
+### 🌐 Full-Stack & Web
 
-> *Excel logic tables → Multi-LLM pipeline → Robot workflows*
+| Project | Description |
+|---------|-------------|
+| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | Digital twin factory simulation with MQTT real-time messaging (Flask + HTML5) |
+| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | Interactive web pet game — Xixi the dog |
+| 🌸 [**ai-florist-3d**](https://github.com/Liujingze11/ai-florist-3d) | AI-powered 3D florist application |
+| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | AI Agent-based intelligent packaging recommendation system |
 
-A system that converts industrial robot instruction logic tables into executable workflows using multi-LLM orchestration (DeepSeek + Qwen + MiMo cross-validation). Features a full-stack web interface (FastAPI + React + TypeScript), multiple engine versions with automated checking, and supports 4 distribution formats including Docker and Debian packages.
+### 🧠 AI Agent & LLM
 
----
+| Project | Description |
+|---------|-------------|
+| 🐳 [**Claude Code + DeepSeek Starter**](https://github.com/Liujingze11/claude-code-deepseek-starter) | Cross-platform one-click deployment of Claude Code with DeepSeek API (macOS / Windows / Linux) |
+| 💡 [**first-principles-skill**](https://github.com/Liujingze11/first-principles-skill) | Claude Code skill — first-principles, rocket-engineer thinking for debugging & architecture |
+| 🧠 [**thinking-is-all-you-need**](https://github.com/Liujingze11/thinking-is-all-you-need) | Exploring thinking-centric approaches to LLM reasoning |
+| 🐱 [**chinese-codex-pets**](https://github.com/Liujingze11/chinese-codex-pets) | Codex-powered pet projects with Chinese language support |
 
+### ⚡ Systems & Hardware
 
----
+| Project | Description |
+|---------|-------------|
+| 🕸️ **Distributed Super Crawler** | RabbitMQ-based distributed web crawler — **~4x concurrency improvement** |
+| 🐉 [**Dragon-core**](https://github.com/Liujingze11/Dragon-core) | National RISC-V student contest — CVA6 core modification for AI acceleration |
 
-### 👁️ Lookalike Cam Engine — Multi-Feature Person Re-Identification
+### 📚 Learning & Notes
 
-> *Plugin-based pipeline: Detection → Embedding → Retrieval → Ranking*
-
-A modular, config-driven similarity matching system for cross-camera person re-identification. Designed with abstract base classes for pluggable detectors, embedders, retrievers, and rankers.
-
-- 🎯 **Plugin architecture**: Abstract base classes → dependency injection via YAML config
-- 🔍 **Multi-feature**: Global (CLIP), Face, Outfit, Color embeddings
-- ⚡ **FAISS vector search** for high-performance retrieval
-- 🧩 Composable pipeline: mix and match detectors/embedders/retrievers/rankers
-- Built with `PyTorch`, `OpenCLIP`, `FAISS`, `FastAPI`
-
-### 🧬 YOLO-LAB — YOLO Training & Inference Toolkit
-
-> *Dual-interface (GUI + CLI) with cross-platform packaging*
-
-A complete YOLO model workflow tool with PySide6 GUI and CLI interfaces, featuring automatic GPU detection, cross-platform releases (Windows/Linux/macOS), and CI/CD automation via GitHub Actions.
-
----
-
-### 🐳 Claude Code + DeepSeek Starter
-
-> *One-click cross-platform deployment of Claude Code with DeepSeek API*
-
-A starter kit that simplifies Claude Code installation and DeepSeek API integration for non-technical users across macOS, Windows, and Linux.
-
-- 🖥️ macOS: double-click `.command` auto-install with Miniforge
-- 🪟 Windows: PowerShell one-click with Git + Node.js auto-setup
-- 🐧 Linux: single-line bash install
-- 🔑 Environment variable auto-configuration for DeepSeek API
-
-🔗 [claude-code-deepseek-starter](https://github.com/Liujingze11/claude-code-deepseek-starter)
-
----
-
-### 🌐 Distributed Super Crawler (RabbitMQ)
-
-A distributed web crawler leveraging RabbitMQ for asynchronous task scheduling. Achieved **~4x concurrency improvement** over single-threaded approaches.
-
-- Python multi-threading + RabbitMQ message queue
-- Flask backend for task management
-- Parallel data collection & processing pipeline
-
----
-
-### 🏭 Digital Factory Simulator
-
-A browser-based digital twin interface for factory simulation with real-time MQTT messaging.
-
-- HTML5 + CSS3 + JavaScript frontend
-- Flask + Paho-MQTT backend
-- Agent selection, scene management, message control
-
----
-
-### ⚙️ RISC-V AI Acceleration
-
-Modified the CVA6 RISC-V core with custom instructions to accelerate MNIST neural network inference on FPGA.
-
-- SystemVerilog RTL design
-- Custom instruction set extension
-- Measurable clock cycle reduction for AI workloads
+| Project | Description |
+|---------|-------------|
+| 📖 [**MylearningNote**](https://github.com/Liujingze11/MylearningNote) | Structured CS learning notes — Programming, Algorithms, AI, LLM Agent, Computer Vision |
 
 ---
 
@@ -256,21 +220,6 @@ AI engineering applications in robotics and intelligent industrial systems.
 
 ---
 
-## 🗂️ Project Map
-
-```
-📁 Projects/
-├── 🧠 NervaCore/            Embodied AI agent brain (Sensory→Brain→Motor)
-├── 🤖 IMRGo (CLI/GUI/Web)   Robot instruction generation (multi-LLM pipeline)
-├── 👁️ Lookalike-Cam-Engine  Multi-feature person re-identification
-├── 🧬 YOLO-LAB              YOLO training/inference toolkit (GUI + CLI)
-├── 🐳 Claude-DeepSeek       Cross-platform Claude Code + DeepSeek starter
-├── 🕸️ Distributed-Crawler   RabbitMQ-based distributed web crawler
-├── 🏭 Digital-Factory       Digital twin factory simulator (MQTT + Flask)
-├── ⚙️ RISC-V-AI             CVA6 core modification for AI acceleration
-├── 📚 MyLearningNote/       Structured CS notes (PL, Algo, AI, CV, Agent)
-└── 🧪 Testing-Workspace/    Robot instruction testing (5 real-world scenarios)
-```
 
 ---
 

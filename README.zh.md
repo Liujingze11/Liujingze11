@@ -118,86 +118,51 @@
 
 ## 📌 精选项目
 
-### 🧠 NervaCore — 人形机器人具身智能体大脑
+### 🤖 AI 与机器人
 
-> *"机器人即人" — 感知→大脑→运动 闭环架构*
+| 项目 | 描述 |
+|------|------|
+| 🧠 **NervaCore** | 人形机器人具身智能体大脑 — 感知→大脑→运动 闭环架构 |
+| 🤖 **IMRGo** (CLI / GUI / Web) | 机器人指令生成系统 — Excel 逻辑表通过多 LLM 编排转化为工作流 |
 
-面向人形服务机器人的具身 AI Agent 系统，模拟人类神经架构：多模态感知 → 大脑决策（LLM 规划器 + 确定性安全门控）→ 运动执行 → 闭环反馈。采用三层架构设计，内置 11 条永久安全规则和 6 种运动原语，全部确定性执行。
+### 👁️ 计算机视觉
 
----
+| 项目 | 描述 |
+|------|------|
+| 🧬 **YOLO-LAB** | YOLO 训练与推理工具集 — GUI (PySide6) + CLI，跨平台打包，自动 GPU 检测 |
+| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | 多特征行人重识别 — 插件化管线（检测 → CLIP → FAISS → 排序） |
+| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | 基于计算机视觉的狗狗追踪 |
 
-### 🤖 IMRGo — 基于 LLM 的机器人指令生成系统
+### 🌐 全栈与 Web
 
-> *Excel 逻辑表 → 多 LLM 管线 → 机器人工作流*
+| 项目 | 描述 |
+|------|------|
+| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | 数字孪生工厂仿真 — MQTT 实时消息 (Flask + HTML5) |
+| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | 交互式网页宠物游戏 — 小狗 Xixi |
+| 🌸 [**ai-florist-3d**](https://github.com/Liujingze11/ai-florist-3d) | AI 驱动的 3D 花店应用 |
+| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | 基于 AI Agent 的智能包装推荐系统 |
 
-将工业机器人指令逻辑表通过多 LLM 编排（DeepSeek + Qwen + MiMo 交叉验证）转化为可执行工作流。全栈 Web 界面（FastAPI + React + TypeScript），多版本引擎支持自动校验，提供 Docker、Debian 等 4 种分发方式。
+### 🧠 AI Agent 与 LLM
 
----
+| 项目 | 描述 |
+|------|------|
+| 🐳 [**Claude Code + DeepSeek Starter**](https://github.com/Liujingze11/claude-code-deepseek-starter) | 跨平台一键部署 Claude Code 并接入 DeepSeek API |
+| 💡 [**first-principles-skill**](https://github.com/Liujingze11/first-principles-skill) | Claude Code 技能 — 基于第一性原理的调试与架构思维 |
+| 🧠 [**thinking-is-all-you-need**](https://github.com/Liujingze11/thinking-is-all-you-need) | 探索以思维为核心的 LLM 推理方法 |
+| 🐱 [**chinese-codex-pets**](https://github.com/Liujingze11/chinese-codex-pets) | Codex 驱动的中文语言宠物项目 |
 
+### ⚡ 系统与硬件
 
----
+| 项目 | 描述 |
+|------|------|
+| 🕸️ **分布式超级爬虫** | 基于 RabbitMQ 的分布式网页爬虫 — **并发性能提升约 4 倍** |
+| 🐉 [**Dragon-core**](https://github.com/Liujingze11/Dragon-core) | 全国 RISC-V 学生竞赛 — CVA6 内核 AI 加速改造 |
 
-### 👁️ Lookalike Cam Engine — 多特征行人重识别引擎
+### 📚 学习笔记
 
-> *插件化管线：检测 → 特征提取 → 检索 → 排序*
-
-面向跨摄像头行人重识别的模块化相似度匹配系统。采用抽象基类设计，通过 YAML 配置实现检测器、特征提取器、检索器和排序器的灵活组合。
-
-- 🎯 **插件架构**：抽象基类 → YAML 配置依赖注入
-- 🔍 **多特征融合**：全局语义（CLIP）、人脸、衣着、颜色特征
-- ⚡ **FAISS 向量检索**，高性能相似度搜索
-- 🧩 可组合管线：自由搭配检测器/特征提取器/检索器/排序器
-- 技术栈：`PyTorch`、`OpenCLIP`、`FAISS`、`FastAPI`
-
-### 🧬 YOLO-LAB — YOLO 训练与推理工具集
-
-> *图形界面 + 命令行双界面，跨平台打包*
-
-完整的 YOLO 模型工作流工具，提供 PySide6 GUI 和 CLI 双界面，支持自动 GPU 检测、跨平台发布（Windows/Linux/macOS）和 GitHub Actions CI/CD 自动化。
-
----
-
-### 🐳 Claude Code + DeepSeek 一键部署
-
-> *跨平台一键部署 Claude Code 并接入 DeepSeek API*
-
-为非技术用户简化 Claude Code 安装和 DeepSeek API 配置的启动工具包。
-
-- 🖥️ macOS：双击 `.command`，自动安装 Miniforge
-- 🪟 Windows：一键 PowerShell，自动配置 Git + Node.js
-- 🐧 Linux：一行命令安装
-
-🔗 [claude-code-deepseek-starter](https://github.com/Liujingze11/claude-code-deepseek-starter)
-
----
-
-### 🌐 分布式超级爬虫（RabbitMQ）
-
-基于 RabbitMQ 的分布式网页爬虫，异步任务调度实现**并发性能提升约 4 倍**。
-
-- Python 多线程 + RabbitMQ 消息队列
-- Flask 后端任务管理
-- 并行数据采集与处理
-
----
-
-### 🏭 数字工厂仿真系统
-
-基于浏览器的数字孪生工厂仿真界面，支持 MQTT 实时消息。
-
-- HTML5 + CSS3 + JavaScript 前端
-- Flask + Paho-MQTT 后端
-- 智能体选择、场景管理、消息控制
-
----
-
-### ⚙️ RISC-V AI 加速项目
-
-修改 CVA6 RISC-V 内核，添加自定义指令，在 FPGA 上加速 MNIST 神经网络推理。
-
-- SystemVerilog RTL 设计
-- 自定义指令集扩展
-- 可量化的时钟周期减少
+| 项目 | 描述 |
+|------|------|
+| 📖 [**MylearningNote**](https://github.com/Liujingze11/MylearningNote) | 结构化 CS 学习笔记 — 编程、算法、AI、LLM Agent、计算机视觉 |
 
 ---
 
@@ -255,23 +220,6 @@
 
 ---
 
-## 🗂️ 项目地图
-
-```
-📁 项目总览/
-├── 🧠 NervaCore/            具身 AI 智能体大脑（感知→大脑→运动）
-├── 🤖 IMRGo (CLI/GUI/Web)   机器人指令生成系统（多 LLM 管线）
-├── 👁️ Lookalike-Cam-Engine  多特征行人重识别引擎
-├── 🧬 YOLO-LAB              YOLO 训练推理工具（GUI + CLI）
-├── 🐳 Claude-DeepSeek       跨平台 Claude Code + DeepSeek 部署
-├── 🕸️ Distributed-Crawler   基于 RabbitMQ 的分布式爬虫
-├── 🏭 Digital-Factory       数字孪生工厂仿真（MQTT + Flask）
-├── ⚙️ RISC-V-AI             CVA6 内核 AI 加速改造
-├── 📚 MyLearningNote/       结构化学习笔记（编程/算法/AI/CV/Agent）
-└── 🧪 Testing-Workspace/    机器人指令测试（5 个真实场景案例）
-```
-
----
 
 ## ✍️ 技术写作
 
