@@ -18,6 +18,8 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 - 🤖 AI Engineer at **SIASUN Robotics / 新松机器人**
 - 🎓 M.Sc. in Computer Science, **IMT Atlantique, France**
+- 🎓 B.Sc. in Electronics, Electrical Energy & Automation, **Université Toulouse III — Paul Sabatier, France**
+- 🎓 B.Eng. in Materials Science & Engineering, **Northeastern University, China**
 - 🧠 Building **Embodied AI Agents**, **LLM orchestration pipelines**, and **robot instruction systems**
 - 👁️ Experienced in **Computer Vision** (YOLO, CLIP, FAISS, re-identification)
 - 🌐 Full-stack development: **FastAPI + React + TypeScript** for AI applications
