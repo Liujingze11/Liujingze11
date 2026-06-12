@@ -146,16 +146,6 @@ A modular, config-driven similarity matching system for cross-camera person re-i
 - 🧩 Composable pipeline: mix and match detectors/embedders/retrievers/rankers
 - Built with `PyTorch`, `OpenCLIP`, `FAISS`, `FastAPI`
 
-```python
-# Pipeline: Detect → Embed → Retrieve → Rank
-pipeline = LookalikePipeline(config_path="configs/pipeline.yaml")
-regions = pipeline.detect(query_image)      # Face detection + full image
-vectors = [pipeline.embed(r) for r in regions]  # Multi-type embeddings
-candidates = pipeline.retrieve(vectors, index)   # FAISS similarity search
-matches = pipeline.rank(query, candidates)       # Score & sort results
-```
-
-🔗 [lookalike-cam-engine](https://github.com/Liujingze11/lookalike-cam-engine)
 
 ---
 

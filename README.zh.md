@@ -146,16 +146,6 @@
 - 🧩 可组合管线：自由搭配检测器/特征提取器/检索器/排序器
 - 技术栈：`PyTorch`、`OpenCLIP`、`FAISS`、`FastAPI`
 
-```python
-# 管线：检测 → 特征提取 → 检索 → 排序
-pipeline = LookalikePipeline(config_path="configs/pipeline.yaml")
-regions = pipeline.detect(query_image)      # 人脸检测 + 全图
-vectors = [pipeline.embed(r) for r in regions]  # 多类型特征提取
-candidates = pipeline.retrieve(vectors, index)   # FAISS 相似度搜索
-matches = pipeline.rank(query, candidates)       # 打分排序
-```
-
-🔗 [lookalike-cam-engine](https://github.com/Liujingze11/lookalike-cam-engine)
 
 ---
 
