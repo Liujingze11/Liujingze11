@@ -75,6 +75,10 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-6C3CE1?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Automotive-blue?style=for-the-badge)
 
 </div>
