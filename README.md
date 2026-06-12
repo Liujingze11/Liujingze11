@@ -22,7 +22,7 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 - 👁️ Experienced in **Computer Vision** (YOLO, CLIP, FAISS, re-identification)
 - 🌐 Full-stack development: **FastAPI + React + TypeScript** for AI applications
 - 🏭 Background in **smart manufacturing**: MES/WMS, AGV, robotic arm, conveyor integration
-- ✍️ CSDN Certified AI Creator — **270K+ blog views**
+- ✍️ CSDN Certified AI Creator — **323K+ blog views**
 - 🌍 International experience across China, France, and Switzerland
 
 ---
@@ -335,7 +335,7 @@ I write technical blogs on **AI engineering, distributed algorithms, robotics sy
 <div align="center">
 
 [![CSDN](https://img.shields.io/badge/CSDN-AI%20Creator-red?style=for-the-badge&logo=blogger&logoColor=white)](https://liujingze.blog.csdn.net)
-[![Blog Views](https://img.shields.io/badge/Blog%20Views-270K%2B-orange?style=for-the-badge)](https://liujingze.blog.csdn.net)
+[![Blog Views](https://img.shields.io/badge/Blog%20Views-323K%2B-orange?style=for-the-badge)](https://liujingze.blog.csdn.net)
 
 </div>
 

@@ -22,7 +22,7 @@
 - 👁️ 计算机视觉方向：YOLO、CLIP、FAISS、行人重识别
 - 🌐 全栈开发：**FastAPI + React + TypeScript** 构建 AI 应用
 - 🏭 智能制造背景：MES/WMS、AGV、机械臂、传送带集成
-- ✍️ CSDN 人工智能领域认证创作者，**27 万+ 博客访问量**
+- ✍️ CSDN 人工智能领域认证创作者，**32.3 万+ 博客访问量**
 - 🌍 国际化经历：中国、法国、瑞士
 
 ---
@@ -333,7 +333,7 @@ matches = pipeline.rank(query, candidates)       # 打分排序
 <div align="center">
 
 [![CSDN](https://img.shields.io/badge/CSDN-AI%20创作者-red?style=for-the-badge&logo=blogger&logoColor=white)](https://liujingze.blog.csdn.net)
-[![Blog Views](https://img.shields.io/badge/博客访问-27万%2B-orange?style=for-the-badge)](https://liujingze.blog.csdn.net)
+[![Blog Views](https://img.shields.io/badge/博客访问-32.3万%2B-orange?style=for-the-badge)](https://liujingze.blog.csdn.net)
 
 </div>
 
