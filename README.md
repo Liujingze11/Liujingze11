@@ -124,7 +124,7 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 | Project | Description |
 |---------|-------------|
 | 🧠 **NervaCore** | Embodied agent brain for humanoid robots — Sensory → Brain → Motor closed-loop architecture |
-| 🤖 **IMRGo** (CLI / GUI / Web) | Robot instruction generation from Excel logic tables via multi-LLM orchestration (DeepSeek + Qwen + MiMo) |
+| 🤖 **IMRGo Agent** (CLI / GUI / Web) | Robot instruction generation from Excel logic tables via multi-LLM orchestration (DeepSeek + Qwen + MiMo) |
 
 ### 👁️ Computer Vision
 
