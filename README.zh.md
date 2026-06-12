@@ -41,6 +41,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-1E90FF?style=for-the-badge&logo=amd&logoColor=white)
 
 ### AI 与机器学习
 
