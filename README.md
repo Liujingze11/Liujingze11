@@ -129,7 +129,7 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 | Project | Description |
 |---------|-------------|
-| 🧬 **YOLO-LAB** | YOLO training & inference toolkit — GUI (PySide6) + CLI, cross-platform packaging with auto GPU detection |
+| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO training & inference toolkit — GUI (PySide6) + CLI, cross-platform packaging with auto GPU detection |
 | 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | Multi-feature person re-identification — plugin pipeline (Detection → CLIP → FAISS → Ranking) |
 | 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | Dog tracking with computer vision |
 

@@ -129,7 +129,7 @@
 
 | 项目 | 描述 |
 |------|------|
-| 🧬 **YOLO-LAB** | YOLO 训练与推理工具集 — GUI (PySide6) + CLI，跨平台打包，自动 GPU 检测 |
+| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO 训练与推理工具集 — GUI (PySide6) + CLI，跨平台打包，自动 GPU 检测 |
 | 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | 多特征行人重识别 — 插件化管线（检测 → CLIP → FAISS → 排序） |
 | 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | 基于计算机视觉的狗狗追踪 |
 
