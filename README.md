@@ -17,7 +17,7 @@
 I am an AI Engineer passionate about bridging **Artificial Intelligence** and **Robotics**. My work spans the full AI engineering stack — from embodied agent brains and multi-LLM orchestration to computer vision systems and full-stack AI applications.
 
 - 🤖 AI Engineer at **SIASUN Robotics / 新松机器人**
-- 🎓 M.Sc. in Computer Science, **IMT Atlantique, France**
+- 🎓 M.Sc. in Computer Science + Diplôme d'Ingénieur (CTI-accredited), **IMT Atlantique, France**
 - 🎓 B.Sc. in Electronics, Electrical Energy & Automation, **Université Toulouse III — Paul Sabatier, France**
 - 🎓 B.Eng. in Materials Science & Engineering, **Northeastern University, China**
 - 🧠 Building **Embodied AI Agents**, **LLM orchestration pipelines**, and **robot instruction systems**
