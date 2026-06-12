@@ -122,34 +122,9 @@
 
 ### 🤖 IMRGo — 基于 LLM 的机器人指令生成系统
 
-> *Excel 逻辑表 → 多 LLM 管线 → 机器人工作流（JSON + 文档 + 图谱）*
+> *Excel 逻辑表 → 多 LLM 管线 → 机器人工作流*
 
-将工业机器人指令逻辑表通过多 LLM 编排转化为可执行工作流。三种产品形态：**CLI**（LangGraph 交互式）、**GUI**（FastAPI + React 桌面应用）、**Web**（可部署服务）。
-
-**管线架构：**
-```
-Excel 逻辑表 → 意图识别 → 动态规划 → 指令推理
-             → 校验器（Qwen/MiMo 交叉验证）→ JSON 转换 → TXT 渲染
-```
-
-**引擎版本**（6 种变体）：
-| 版本 | 生成模型 | 校验模型 | 特点 |
-|------|---------|---------|------|
-| v1 | DeepSeek | — | 单次生成 |
-| v2 | DeepSeek | Qwen | 双模型交叉验证 |
-| v2.2DD | DeepSeek | — | 优化直接生成 |
-| v2.2DQ | DeepSeek | Qwen | 双模型 + 优化提示词 |
-| v2.2DM | DeepSeek | MiMo | 小米 MiMo 作为校验器 |
-| v2.3DQ | DeepSeek | Qwen | 可配置超时与重试 |
-
-**技术亮点：**
-- 🧠 多 LLM 编排：DeepSeek + Qwen + MiMo 交叉验证
-- ⚛️ 全栈技术：`FastAPI` + `React` + `TypeScript` + `Vite` + `Tailwind CSS`
-- 📦 4 种分发方式：本地安装器、`.deb` 包、Docker、便携版
-- 🧪 完整测试套件：Golden 测试 + LLM-as-Judge 验证
-- 🔄 LangGraph 状态机 + 人工介入中断机制
-
-🔗 [IMRGo-CLI](https://github.com/Liujingze11/IMRGo-CLI) · [IMRGo-GUI](https://github.com/Liujingze11/IMRGo-GUI) · [IMRGo-Web](https://github.com/Liujingze11/IMRGo-Web)
+将工业机器人指令逻辑表通过多 LLM 编排（DeepSeek + Qwen + MiMo 交叉验证）转化为可执行工作流。全栈 Web 界面（FastAPI + React + TypeScript），多版本引擎支持自动校验，提供 Docker、Debian 等 4 种分发方式。
 
 ---
 

@@ -122,34 +122,9 @@ An embodied AI agent system for humanoid service robots, modeling robot cognitio
 
 ### 🤖 IMRGo — LLM-Powered Robot Instruction Generation System
 
-> *Excel logic tables → LLM pipeline → Robot workflow (JSON + Document + Graph)*
+> *Excel logic tables → Multi-LLM pipeline → Robot workflows*
 
-A comprehensive system that converts industrial robot instruction logic tables into executable workflows using multi-LLM orchestration. Three product forms: **CLI** (LangGraph interactive), **GUI** (FastAPI + React desktop app), **Web** (deployable service).
-
-**Pipeline Architecture:**
-```
-Excel Logic Table → Intent Recognition → Dynamic Planner → Instruction Reasoning
-                   → Checker (Qwen/MiMo validation) → JSON Converter → TXT Renderer
-```
-
-**Engine Versions** (6 variants):
-| Version | Generator | Checker | Feature |
-|---------|-----------|---------|---------|
-| v1 | DeepSeek | — | Single-pass generation |
-| v2 | DeepSeek | Qwen | Dual-model validation |
-| v2.2DD | DeepSeek | — | Optimized direct generation |
-| v2.2DQ | DeepSeek | Qwen | Dual-model with optimized prompts |
-| v2.2DM | DeepSeek | MiMo | Xiaomi MiMo as checker |
-| v2.3DQ | DeepSeek | Qwen | Configurable timeout & retry |
-
-**Technical Highlights:**
-- 🧠 Multi-LLM orchestration: DeepSeek + Qwen + MiMo with cross-validation
-- ⚛️ Full-stack: `FastAPI` + `React` + `TypeScript` + `Vite` + `Tailwind CSS`
-- 📦 4 distribution formats: Local installer, `.deb` package, Docker, Portable
-- 🧪 Comprehensive test suite: Golden tests, LLM-as-judge validation
-- 🔄 LangGraph state machine with human-in-the-loop interrupt
-
-🔗 [IMRGo-CLI](https://github.com/Liujingze11/IMRGo-CLI) · [IMRGo-GUI](https://github.com/Liujingze11/IMRGo-GUI) · [IMRGo-Web](https://github.com/Liujingze11/IMRGo-Web)
+A system that converts industrial robot instruction logic tables into executable workflows using multi-LLM orchestration (DeepSeek + Qwen + MiMo cross-validation). Features a full-stack web interface (FastAPI + React + TypeScript), multiple engine versions with automated checking, and supports 4 distribution formats including Docker and Debian packages.
 
 ---
 
