@@ -155,7 +155,6 @@
 
 | 项目 | 描述 |
 |------|------|
-| 🕸️ **分布式超级爬虫** | 基于 RabbitMQ 的分布式网页爬虫 — **并发性能提升约 4 倍** |
 | 🐉 [**Dragon-core**](https://github.com/Liujingze11/Dragon-core) | 全国 RISC-V 学生竞赛 — CVA6 内核 AI 加速改造 |
 
 ### 📚 学习笔记

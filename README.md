@@ -155,7 +155,6 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 | Project | Description |
 |---------|-------------|
-| 🕸️ **Distributed Super Crawler** | RabbitMQ-based distributed web crawler — **~4x concurrency improvement** |
 | 🐉 [**Dragon-core**](https://github.com/Liujingze11/Dragon-core) | National RISC-V student contest — CVA6 core modification for AI acceleration |
 
 ### 📚 Learning & Notes
@@ -217,9 +216,6 @@ AI engineering applications in robotics and intelligent industrial systems.
 </td>
 </tr>
 </table>
-
----
-
 
 ---
 
