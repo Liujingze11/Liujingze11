@@ -14,18 +14,26 @@
 
 ## 🚀 About Me
 
-I am an AI Engineer passionate about bridging **Artificial Intelligence** and **Robotics**. My work spans the full AI engineering stack — from embodied agent brains and multi-LLM orchestration to computer vision systems and full-stack AI applications.
+I am an AI Engineer focused on combining **robotics**, **industrial systems**, and **AI technology** to build practical intelligent systems. My work spans embodied agents, multi-LLM orchestration, computer vision, and full-stack AI applications designed for real-world deployment.
 
 - 🤖 AI Engineer at **SIASUN Robotics / 新松机器人**
 - 🎓 M.Sc. in Computer Science + Diplôme d'Ingénieur (CTI-accredited), **IMT Atlantique, France**
 - 🎓 B.Eng. in Electronics, Electrical Energy & Automation, **Université Toulouse III — Paul Sabatier, France**
 - 🎓 B.Eng. in Materials Science & Engineering, **Northeastern University, China**
-- 🧠 Building **Embodied AI Agents**, **LLM orchestration pipelines**, and **robot instruction systems**
-- 👁️ Experienced in **Computer Vision** (YOLO, CLIP, FAISS, re-identification)
-- 🌐 Full-stack development: **FastAPI + React + TypeScript** for AI applications
-- 🏭 Background in **smart manufacturing**: MES/WMS, AGV, robotic arm, conveyor integration
+- 🧠 Building **embodied AI agents**, **LLM orchestration pipelines**, and **robot instruction systems**
+- 👁️ Experienced in **computer vision** (YOLO, CLIP, FAISS, person re-identification)
+- 🌐 Full-stack development with **FastAPI + React + TypeScript** for AI products
+- 🏭 Background in **smart manufacturing** and industrial automation (MES/WMS, AGV, robotic arm, conveyor integration)
 - ✍️ CSDN Certified AI Creator — **323K+ blog views**
 - 🌍 International experience across China, France, and Switzerland
+
+---
+
+## 🎯 Current Focus
+
+- Building multi-agent workflows for robot instruction generation and industrial decision support
+- Developing practical AI systems that connect perception, reasoning, and execution
+- Exploring robust engineering workflows for deployment, packaging, and real-world validation
 
 ---
 
@@ -123,25 +131,25 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 | Project | Description |
 |---------|-------------|
-| 🧠 **NervaCore** | Embodied agent brain for humanoid robots — Sensory → Brain → Motor closed-loop architecture |
-| 🤖 **IMRGo Agent** (CLI / GUI / Web) | Robot instruction generation from Excel logic tables via multi-LLM orchestration (DeepSeek + Qwen + MiMo) |
+| 🧠 **NervaCore** | Embodied agent brain for humanoid robots, building a closed loop of perception, reasoning, and motor control |
+| 🤖 **IMRGo Agent** (CLI / GUI / Web) | Robot instruction generation system that turns Excel logic tables into executable workflows and generates results through multi-LLM orchestration |
 
 ### 👁️ Computer Vision
 
 | Project | Description |
 |---------|-------------|
-| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO training & inference toolkit — GUI (PySide6) + CLI, cross-platform packaging with auto GPU detection |
-| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | Multi-feature person re-identification — plugin pipeline (Detection → CLIP → FAISS → Ranking) |
-| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | Dog tracking with computer vision |
+| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO training and inference toolkit with SDK, CLI, and GUI, supporting cross-platform packaging and automatic GPU detection |
+| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | Multi-stage person re-identification project combining detection, CLIP, FAISS, and ranking |
+| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | Computer vision-based dog tracking project |
 
 ### 🌐 Full-Stack & Web
 
 | Project | Description |
 |---------|-------------|
-| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | Digital twin factory simulation with MQTT real-time messaging (Flask + HTML5) |
-| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | Interactive web pet game — Xixi the dog |
+| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | Digital twin factory simulator with MQTT-based real-time messaging and interactive workflow visualization |
+| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | Interactive web pet game featuring Xixi the dog |
 | 🌸 [**ai-florist-3d**](https://github.com/Liujingze11/ai-florist-3d) | AI-powered 3D florist application |
-| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | AI Agent-based intelligent packaging recommendation system |
+| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | AI-agent-based packaging recommendation and compatibility evaluation system |
 
 ### 🧠 AI Agent & LLM
 
@@ -175,7 +183,7 @@ I am an AI Engineer passionate about bridging **Artificial Intelligence** and **
 
 **AI Engineer** — SIASUN Robotics / 新松机器人
 
-AI engineering applications in robotics and intelligent industrial systems.
+AI engineering work in robotics and intelligent industrial systems.
 
 </td>
 </tr>
@@ -247,6 +255,6 @@ I write technical blogs on **AI engineering, distributed algorithms, robotics sy
 
 <div align="center">
 
-### *"Building intelligent systems that connect AI, robotics, and real-world industry."*
+### *"Building practical intelligent systems that connect AI, robotics, and real-world industry."*
 
 </div>

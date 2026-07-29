@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# 嗨，我是刘竞泽 👋
+# 你好，我是刘竞泽 👋
 
-### AI 工程师 @ 新松机器人 🤖
+### 具身智能领域工程师 @ 新松机器人 🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+工程师+%40+新松机器人;具身智能+%7C+AI+Agent+%7C+计算机视觉;机器人+%7C+分布式系统+%7C+全栈开发;工业AI+%7C+智能制造+%7C+数字孪生" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=具身智能+%7C+机器人+视觉;多+LLM+协同+%7C+Agent+编排;6D+位姿+%7C+机器人控制;全栈+AI+应用+%7C+工程落地" />
 
 </div>
 
@@ -14,18 +14,26 @@
 
 ## 🚀 关于我
 
-我是一名 AI 工程师，热衷于将**人工智能**与**机器人**深度融合。我的工作涵盖从具身智能体大脑、多 LLM 编排到计算机视觉系统和全栈 AI 应用的全技术栈。
+我是一名具身智能领域工程师，专注于把**机器人**、**工业系统**和**AI 技术**结合起来，做落地型智能系统。我的工作覆盖具身智能体、多 LLM 编排、计算机视觉，以及面向实际部署的全栈 AI 应用。
 
 - 🤖 就职于**新松机器人**，从事 AI 工程应用
 - 🎓 计算机科学硕士 + 工程师文凭（CTI 认证），毕业于**法国 IMT Atlantique**
 - 🎓 电子电能自动化 工学学士，毕业于**法国图卢兹第三大学**
 - 🎓 材料科学与工程 工学学士，毕业于**中国东北大学**
-- 🧠 专注于**具身 AI Agent**、**LLM 编排管线**、**机器人指令系统**
+- 🧠 专注于**具身 AI Agent**、**LLM 编排管线**和**机器人指令系统**
 - 👁️ 计算机视觉方向：YOLO、CLIP、FAISS、行人重识别
-- 🌐 全栈开发：**FastAPI + React + TypeScript** 构建 AI 应用
-- 🏭 智能制造背景：MES/WMS、AGV、机械臂、传送带集成
+- 🌐 全栈开发：**FastAPI + React + TypeScript** 构建 AI 产品
+- 🏭 智能制造与工业自动化背景：MES/WMS、AGV、机械臂、传送带集成
 - ✍️ CSDN 人工智能领域认证创作者，**32.3 万+ 博客访问量**
 - 🌍 国际化经历：中国、法国、瑞士
+
+---
+
+## 🎯 目前关注
+
+- 构建面向机器人指令生成与工业决策支持的多 Agent 工作流
+- 开发连接感知、推理与执行的实用 AI 系统
+- 探索面向部署、打包与真实场景验证的工程化流程
 
 ---
 
@@ -93,23 +101,23 @@
 <td width="50%">
 
 **核心研究方向**
-- 🧠 具身智能体 & LLM 编排
-- 🤖 机器人智能 & 运动规划
-- 👁️ 计算机视觉 & 多模态感知
-- 🔄 分布式系统 & 消息队列
-- 🏭 智能制造 & 工业 4.0
-- 🏗️ 数字孪生 & 工厂仿真
+- 🧠 具身智能体与机器人指令系统
+- 🤖 多模型协同与 LLM 编排
+- 👁️ 计算机视觉与多模态感知
+- 🔄 分布式系统与实时消息流
+- 🏭 智能制造与工业流程数字化
+- 🏗️ 数字孪生与工厂仿真
 
 </td>
 <td width="50%">
 
 **工程能力**
 - 🔧 全栈 AI 应用开发
-- 📦 跨平台打包（Debian、Docker、AppImage）
-- 🧪 LLM 流水线测试与验证
-- ⚡ 模型压缩、量化与剪枝
-- 🔌 嵌入式系统 & AUTOSAR
-- 🎯 CI/CD & 自动化发布流水线
+- 📦 跨平台工具链与软件打包
+- 🧪 面向真实系统的 LLM 流水线测试与验证
+- ⚡ 模型压缩、量化与部署优化
+- 🔌 嵌入式软件与 AUTOSAR
+- 🎯 CI/CD 与自动化发布流程
 
 </td>
 </tr>
@@ -123,25 +131,25 @@
 
 | 项目 | 描述 |
 |------|------|
-| 🧠 **NervaCore** | 人形机器人具身智能体大脑 — 感知→大脑→运动 闭环架构 |
-| 🤖 **IMRGo Agent** (CLI / GUI / Web) | 机器人指令生成系统 — Excel 逻辑表通过多 LLM 编排转化为工作流 |
+| 🧠 **NervaCore** | 人形机器人具身智能体大脑，构建感知、推理与运动控制闭环 |
+| 🤖 **IMRGo Agent** (CLI / GUI / Web) | 机器人指令生成系统，将 Excel 逻辑表转化为可执行工作流，并通过多 LLM 编排生成结果 |
 
 ### 👁️ 计算机视觉
 
 | 项目 | 描述 |
 |------|------|
-| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO 训练与推理工具集 — GUI (PySide6) + CLI，跨平台打包，自动 GPU 检测 |
-| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | 多特征行人重识别 — 插件化管线（检测 → CLIP → FAISS → 排序） |
-| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | 基于计算机视觉的狗狗追踪 |
+| 🧬 [**YOLO-LAB**](https://github.com/Liujingze11/YOLO-LAB) | YOLO 训练与推理工具集，包含 SDK、CLI 与 GUI，支持跨平台打包与自动 GPU 检测 |
+| 👁️ [**Lookalike Cam Engine**](https://github.com/Liujingze11/lookalike-cam-engine) | 多阶段行人重识别项目，结合检测、CLIP、FAISS 与排序流程 |
+| 🐕 [**xixi-dog-tracker**](https://github.com/Liujingze11/xixi-dog-tracker) | 基于计算机视觉的狗狗追踪项目 |
 
 ### 🌐 全栈与 Web
 
 | 项目 | 描述 |
 |------|------|
-| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | 数字孪生工厂仿真 — MQTT 实时消息 (Flask + HTML5) |
-| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | 交互式网页宠物游戏 — 小狗 Xixi |
+| 🏭 [**MES Factory Workflow Simulator**](https://github.com/Liujingze11/MES-Factory-Workflow-Simulator) | 数字孪生工厂仿真项目，结合 MQTT 实时消息与交互式流程可视化 |
+| 🐶 [**xixi-Agent**](https://github.com/Liujingze11/xixi-Agent) | 交互式网页宠物游戏，角色为小狗 Xixi |
 | 🌸 [**ai-florist-3d**](https://github.com/Liujingze11/ai-florist-3d) | AI 驱动的 3D 花店应用 |
-| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | 基于 AI Agent 的智能包装推荐系统 |
+| 📦 [**AI Packing Engine**](https://github.com/Liujingze11/AI_Packing_Engine) | 基于 AI Agent 的包装推荐与兼容性评估系统 |
 
 ### 🧠 AI Agent 与 LLM
 
@@ -175,7 +183,7 @@
 
 **AI 工程师** — 新松机器人
 
-从事机器人与智能制造领域的 AI 工程应用研发。
+从事机器人与智能制造场景下的 AI 工程研发。
 
 </td>
 </tr>
@@ -248,6 +256,6 @@
 
 <div align="center">
 
-### *"构建连接 AI、机器人与真实工业的智能系统。"*
+### *"构建连接 AI、机器人与真实工业的实用智能系统。"*
 
 </div>
